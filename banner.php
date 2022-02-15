@@ -1,0 +1,1 @@
+<img src="./img/mazebankbanner.png" alt="mazebanner" class="banner">
